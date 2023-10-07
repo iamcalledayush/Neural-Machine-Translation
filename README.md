@@ -1,1 +1,2 @@
-# nmt
+A Neural Machine Translation (NMT) model to translate human-readable dates ("25th of June, 2009") into machine-readable dates ("2009-06-25"), using an attention model (one of the most sophisticated sequence-to-sequence models) with pre-attention Bi-LSTM and post-attention LSTM.
+The model could be used to translate from one language to another, such as translating from English to Hindi. Just change the dataset for that and train the same model.
